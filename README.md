@@ -15,8 +15,7 @@ Welcome to the Number Guessing Game! This is a simple Python script that allows 
 To run the game on your local machine, follow these steps:
 
 1. Clone this repository:
-   git clone github.com/sohrowardi/Nuber-Guessing-Game
-
+   git clone github.com/sohrowardi/Number-Guessing-Game
 
 2. Navigate to the project directory:
 cd number-guessing-game
